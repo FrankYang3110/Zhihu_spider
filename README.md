@@ -7,5 +7,10 @@ Scrapy抓取知乎全部问题和答案，存入mysql数据库。
 
 用twisted提供的异步接口将数据存入mysql
 
+知乎问题入库：
+
 ![Image1](https://github.com/FrankYang3110/img-folder/blob/master/zhihu_question.png)
+
+知乎回答入库：
+
 ![Image2](https://github.com/FrankYang3110/img-folder/blob/master/zhihu_answer.png)
